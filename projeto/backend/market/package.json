@@ -1,0 +1,15 @@
+{
+  "name": "market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "json-server --watch market-db.json --port 3002"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Santos",
+      "email": "a.santos@gmail.com"
+    },
+    {
+      "name": "Cleiton Borges",
+      "email": "cleiton23@live.com",
+      "id": 4
+    },
+    {
+      "name": "Ítalo Sérgio Soares da Cruz",
+      "email": "italo-cruz@hotmail.com",
+      "id": 5
+    }
+  ]
+}
